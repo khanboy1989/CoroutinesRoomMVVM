@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoroutinesMVVMRoom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="are_you_sure_you_want_to_delete_the_user">Are you sure you want to delete the user?</string>
+    <string name="delete_user">Delete User</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="signedOut">Signed Out</string>
+    <string name="user_deleted">User Deleted!!!</string>
+    <string name="login_complete">Login complete</string>
+</resources>
